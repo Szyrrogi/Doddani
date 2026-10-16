@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 05cfb82a01372924cb657c0390d76da9, type: 3}
+  m_Name: LuckUp
+  m_EditorClassIdentifier: 
+  spellName: luckUp
+  description: 
+  cost: 3
+  target: 2
+  element: 0
+  jednorazowy: 1
+  typEfektu: 1
+  direction: 0
+  statName: 
+  uderzenie: 0
+  ilosc: 0
+  statusyNaCel: []
+  statusyNaSiebie:
+  - typ: 4
+    typCzasu: 1
+    wartoscCzasu: 1
+    rownaniePoziomu: 
+    poziom: 1
+    statystyka: 
+    ikonaZrodlowa: {fileID: 21300000, guid: 7c6b82cb795dde6419fb503b254db2d4, type: 3}
+  shapeTemplate:
+    cells: 00000000000000000000000001000000000000000000000000

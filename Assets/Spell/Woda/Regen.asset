@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 05cfb82a01372924cb657c0390d76da9, type: 3}
+  m_Name: Regen
+  m_EditorClassIdentifier: 
+  spellName: Regen
+  description: 
+  cost: 3
+  target: 2
+  element: 1
+  jednorazowy: 1
+  typEfektu: 0
+  direction: 0
+  statName: REGEN
+  uderzenie: 1
+  ilosc: 5
+  statusyNaCel: []
+  statusyNaSiebie: []
+  shapeTemplate:
+    cells: 00000000000000000000000000000000010000000000000000

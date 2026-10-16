@@ -1,0 +1,40 @@
+{
+    "adventureWejscia": 1,
+    "maxWejscia": 30,
+    "playerMonsters": [
+        {
+            "monsterName": "Random",
+            "level": 2,
+            "currentExp": 38,
+            "skillPoints": 0,
+            "unlockedSkills": [
+                "Start2",
+                "Start2",
+                "Start2"
+            ],
+            "health": 7,
+            "maxHealth": 15,
+            "atack": 20,
+            "lifeSteal": 0,
+            "armor": 1,
+            "regen": 0,
+            "doge": 0,
+            "energyMax": 6.0,
+            "energyStart": 0.0,
+            "energyPerSecond": 1.0,
+            "fire": 0,
+            "water": 0,
+            "earth": 0,
+            "air": 0,
+            "magic": 0,
+            "crite": 0.0,
+            "itemSlots": 2,
+            "equippedItems": [],
+            "przygotowaneStatusy": []
+        }
+    ],
+    "activePartyIndices": [
+        0
+    ],
+    "playerItemNames": []
+}
